@@ -45,10 +45,10 @@
 #
 
 # subprocess module
-import subprocess
+# import subprocess
 
 # Be careful to not create an infinite loop
-subprocess.run(["python", "hello_world.py"])
+# subprocess.run(["python", "hello_world.py"])
 
 # math module
 
